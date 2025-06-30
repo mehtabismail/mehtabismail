@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on WebRTC<br>👯 I’m looking to collaborate with open-source contributors to solve real-world problems<br>🌱 I’m currently learning Node js<br>💬 Ask me about anything related to js<br>⚡ Fun fact (I'm a Sr. React Native Developer with 0% interest in it) 
+🔭 I’m currently working on WebRTC<br>👯 I’m looking to collaborate with open-source contributors to solve real-world problems<br>🌱 I’m currently learning Node js<br>💬 Ask me about anything related to js<br>⚡ Fun fact (I'm a Sr. React Native Developer) 
 
 
 ## 🌐 Socials:
